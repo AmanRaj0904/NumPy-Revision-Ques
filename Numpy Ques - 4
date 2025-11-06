@@ -1,0 +1,5 @@
+import numpy as np
+
+MyArr = np.full((4,4),1)
+print(MyArr)
+  
