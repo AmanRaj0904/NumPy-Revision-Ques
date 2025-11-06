@@ -1,0 +1,4 @@
+import numpy as np
+
+MyArr = np.arange(0,21,2)
+print(MyArr)
