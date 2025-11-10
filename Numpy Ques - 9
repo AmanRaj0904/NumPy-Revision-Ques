@@ -1,0 +1,24 @@
+# Convert Python List to a NumPy array.
+
+import numpy as np
+
+PyList = [1,43,22,76,98,64]
+
+print(f"The Data Type is :-{type(PyList)}\n")
+
+MyArr = np.array(PyList)
+
+print(f"The New Data Type is {type(MyArr)}\n")
+print(MyArr)
+
+  
+  
+    
+  
+
+    
+      
+    
+    
+    
+    
