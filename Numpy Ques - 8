@@ -1,0 +1,6 @@
+# Create a random integer array of size 10 using np.random
+
+import numpy as np
+
+MyArr = np.random.randint(20,50, size =10)
+print(MyArr)
