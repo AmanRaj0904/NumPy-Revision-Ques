@@ -1,0 +1,6 @@
+# Create a 2x5 array filled with number 7.
+
+import numpy as np
+
+MyArr = np.full((2,5),7)
+print(MyArr)
