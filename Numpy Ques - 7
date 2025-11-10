@@ -1,0 +1,19 @@
+# create a 1D array with 50 Elements between 0 to 1 using linspace
+
+
+import numpy as np
+
+MyArr = np.linspace((0,1),50)
+print(MyArr)
+
+  
+  
+    
+  
+
+    
+      
+    
+    
+    
+    
