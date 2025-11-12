@@ -1,0 +1,8 @@
+# Find Total number of Element using size
+
+import numpy as np
+
+MyArr = np.full((3,3),7)
+print("The Dimenstion of Array Is :- ",MyArr.size)
+
+# 3*3 = 9
