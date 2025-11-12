@@ -1,0 +1,7 @@
+# Find datatype of Array Elements 
+
+
+import numpy as np
+
+MyArr = np.full((3,3),7)
+print("The DataType if Array is  :- ",MyArr.dtype)
