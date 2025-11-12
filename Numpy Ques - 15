@@ -1,0 +1,6 @@
+# Change DataType of Array to Float
+
+import numpy as np
+
+MyArr = np.full((3,3),7,dtype=float)
+print("The DataType of Array is  :- ",MyArr.dtype)
