@@ -1,0 +1,8 @@
+# Check Number of Dimension using ndim.
+
+import numpy as np
+
+MyArr = np.full((3,3),7)
+print("The Dimenstion of Array Is :- ",MyArr.ndim)
+
+# Ndim - Tells Dim of Array like 1D / 2D
