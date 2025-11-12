@@ -1,0 +1,9 @@
+# Print the Item size of an integer array
+
+import numpy as np
+
+MyArr = np.random.randint(1,40,size=10)
+
+for i in range(0,len(MyArr)-1):
+  print(MyArr[i].dtype,end="\n")
+# print(MyArr)
