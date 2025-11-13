@@ -1,0 +1,32 @@
+# Replace the Elements of array where values is greater than 20 
+
+import numpy as np
+
+MyArr = np.array(
+  
+    [12,34,65,89,11,30]
+
+)
+
+for i in range(0,len(MyArr)):
+  if MyArr[i] > 20:
+    MyArr[i] = 55
+
+
+print(MyArr)
+
+
+
+
+
+  
+  
+    
+  
+
+    
+      
+    
+    
+    
+    
