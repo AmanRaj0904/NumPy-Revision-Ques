@@ -1,0 +1,29 @@
+# Print Alternate Vlaues of the Array
+
+import numpy as np
+
+MyArr = np.array(
+  
+    [12,34,65,89,11,30]
+
+)
+
+print(MyArr,"\n")
+
+print("The Reverse Array  is :- ", MyArr[0::2])
+
+
+
+
+
+  
+  
+    
+  
+
+    
+      
+    
+    
+    
+    
