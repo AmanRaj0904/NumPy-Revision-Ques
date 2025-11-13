@@ -1,0 +1,25 @@
+# Get the Last 3 Element of the Array 
+
+import numpy as np
+
+MyArr = np.random.randint(1,40,size=10)
+
+print(MyArr)
+
+print(f"First 5 Elements are :- {MyArr[-3:]}")
+
+
+
+
+
+  
+  
+    
+  
+
+    
+      
+    
+    
+    
+    
