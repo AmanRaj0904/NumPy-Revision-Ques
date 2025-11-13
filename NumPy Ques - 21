@@ -1,0 +1,7 @@
+import numpy as np
+
+MyArr = np.full((4,5),10)
+
+print(MyArr,"\n")
+
+print("The Second Row is :- ", MyArr[1])
