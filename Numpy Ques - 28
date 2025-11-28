@@ -1,0 +1,13 @@
+# Flattern a 2D Array to 1D Array
+
+import numpy as np
+
+myArr = np.array(
+  [
+    [10,12],
+    [34,89]
+  ]
+)
+Flatern_Arr = myArr.flatten()
+
+print(Flatern_Arr)
