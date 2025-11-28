@@ -1,0 +1,9 @@
+
+# convert a 1D array of 12 Elements in 4x3 shape
+
+import numpy as np
+
+myArr = np.arange(1,13)
+
+myRevisedArr = myArr.reshape(4,3)
+print(myRevisedArr)
