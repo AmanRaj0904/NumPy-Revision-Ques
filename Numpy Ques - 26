@@ -1,0 +1,10 @@
+#  Write python code to slice 2by2 array from 3by3 Array
+import numpy as np
+
+myArr = np.array([
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+])
+
+print(myArr[0:2,0:2])
